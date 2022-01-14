@@ -1,0 +1,7 @@
+//files and description
+1.Index.html --Login page
+2.connect1.jsp --Connecting to databse
+3.Register.html --registration page 
+4.Title.jsp --Main Page(where you can perform operations on student data)
+5.Display.jsp --displaying student details
+6.U.jsp --Update(edit) student details
